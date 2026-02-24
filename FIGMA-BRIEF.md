@@ -183,8 +183,7 @@ Choose one working/action photo from:
 - Subtle shadow on hover
 - Mobile: Stack to single column
 
-**For projects with 3+ images:** Use carousel/slider with dots or arrows  
-**For projects with 1-2 images:** Show all images stacked
+**Image display:** Always use carousel/slider with dots or arrows (regardless of image count: 1, 2, or more)
 
 ---
 
@@ -206,7 +205,7 @@ Taught high school students practical robotics — from circuit basics to buildi
 
 Disassembled a webcam, removed the IR filter, and repurposed it to capture infrared light. Mounted it on a custom stand. Built for curiosity, learned about sensor physics, optics, and hardware hacking. One of my first experiments in reverse engineering consumer electronics.
 
-**Images (5):** *(Use carousel)*
+**Images (5):**
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/infrared-camera_1.jpg
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/infrared-camera_2.jpg
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/infrared-camera_3.jpg
@@ -219,7 +218,7 @@ Disassembled a webcam, removed the IR filter, and repurposed it to capture infra
 
 Traced wiring diagrams, learned to solder tiny wires to 3.5mm jacks. Started as necessity (broken earphones), evolved into side hustle — fixed earphones for classmates. Taught me: every broken thing is a learning opportunity.
 
-**Images (3):** *(Use carousel)*
+**Images (3):**
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/earphone-repair_1.jpg
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/earphone-repair_2.jpg
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/earphone-repair_3.jpg
@@ -240,7 +239,7 @@ Upgraded earlier woofer design. Built a portable speaker with custom PCB, synchr
 
 Designed and built a portable solar panel charger. Learned about voltage regulation, battery management, and renewable energy systems. Carried it around for weeks — practical, functional, and proof that green tech can be DIY.
 
-**Images (4):** *(Use carousel)*
+**Images (4):**
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/solar-charger_1.jpg
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/solar-charger_2.jpg
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/solar-charger_3.jpg
@@ -252,7 +251,7 @@ Designed and built a portable solar panel charger. Learned about voltage regulat
 
 Built a portable USB charger using lithium batteries and a custom circuit. Practical project to solve a real problem: phone dying on the go. Learned about battery chemistry, circuit protection, and mobile power systems.
 
-**Images (3):** *(Use carousel)*
+**Images (3):**
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/usb-charger_1.jpg
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/usb-charger_2.jpg
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/usb-charger_3.jpg
@@ -263,7 +262,7 @@ Built a portable USB charger using lithium batteries and a custom circuit. Pract
 
 Reverse-engineered a broken PSP charger. Traced circuits, replaced components, soldered new connections. Saved money, gained confidence in repairing instead of replacing. Another proof point: if it's broken, try to fix it before throwing it away.
 
-**Images (3):** *(Use carousel)*
+**Images (3):**
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/psp-charger_1.jpg
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/psp-charger_2.jpg
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/psp-charger_3.jpg
@@ -274,7 +273,7 @@ Reverse-engineered a broken PSP charger. Traced circuits, replaced components, s
 
 Laser-cut acrylic stand to hold photos. Learned CAD design, laser cutting parameters, and material properties. Built as a gift, kept for myself — functional art meets engineering precision.
 
-**Images (3):** *(Use carousel)*
+**Images (3):**
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/photo-stand_1.jpg
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/photo-stand_2.jpg
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/photo-stand_3.jpg
@@ -307,7 +306,7 @@ Organized student recruitment for AIESEC exchange programs. Learned public speak
 
 Built a speaker with synchronized RGB LEDs that pulse to the beat of the music. Salvaged a woofer from an old system, built custom circuitry for LED sync. First project combining audio, electronics, and visual effects. Sparked a love for multi-sensory experiences.
 
-**Images (5):** *(Use carousel)*
+**Images (5):**
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/led-beats-woofer_1.jpg
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/led-beats-woofer_2.jpg
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/led-beats-woofer_3.jpg
@@ -330,7 +329,7 @@ Inspired by Iron Man, built a glowing arc reactor replica using acrylic, LEDs, a
 
 Custom-built illuminated photo frame for a friend. Combined woodworking, LED strips, and diffusion techniques. First project where aesthetics mattered as much as function. Taught me: craftsmanship is about details.
 
-**Images (7):** *(Use carousel)*
+**Images (7):**
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/photo-frame_1.jpg
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/photo-frame_2.jpg
 - https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/photo-frame_3.jpg
