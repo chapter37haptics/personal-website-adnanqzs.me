@@ -104,15 +104,43 @@ All images are publicly accessible via GitHub Raw CDN.
 
 ---
 
-## Personal Photos (To Be Added)
+## Personal Photos (8 photos available)
 
-**Headshot (for Quadrant 2):**
-- https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/howard-headshot.jpg
+### Headshot Options (for Quadrant 2 — Top Right)
 
-**Candid/Working Photo (for Quadrant 4):**
-- https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/howard-working.jpg
+**Portrait 6** (251KB)
+- https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/portrait_6.jpg
 
-*(URLs will work once you add photos to the `assets/personal-photos/` folder and push to GitHub)*
+**Graduation** (171KB)
+- https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/graduation.jpg
+
+**A6300401a** (822KB)
+- https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/A6300401a.jpg
+
+---
+
+### Working/Action Photos (for Quadrant 4 — Bottom Right)
+
+**LED Workshop 1** (1.6MB)
+- https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/led_workshop_1.jpg
+
+**LED Workshop 2** (1.6MB, PNG format)
+- https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/led_workshop_2.png
+
+**Senior Project 1** (140KB)
+- https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/senior_project_1.jpg
+
+**Senior Project 2** (160KB)
+- https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/senior_project_2.jpg
+
+**Senior Project 3** (278KB)
+- https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/senior_project_3.jpg
+
+---
+
+**Recommendations:**
+- **Quadrant 2 (Headshot):** Use `portrait_6.jpg` or `graduation.jpg` (smaller file sizes, good for profile)
+- **Quadrant 4 (Working):** Use `led_workshop_1.jpg` or one of the `senior_project` photos (shows you in action)
 
 ---
 
@@ -186,10 +214,18 @@ https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/
 https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/usb-charger_1.jpg
 https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/usb-charger_2.jpg
 https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/usb-charger_3.jpg
+https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/A6300401a.jpg
+https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/graduation.jpg
+https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/led_workshop_1.jpg
+https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/led_workshop_2.png
+https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/portrait_6.jpg
+https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/senior_project_1.jpg
+https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/senior_project_2.jpg
+https://raw.githubusercontent.com/chapter37haptics/personal-website-adnanqzs.me/main/assets/personal-photos/senior_project_3.jpg
 ```
 
 ---
 
-**Total: 48 CDN URLs ready to use**
+**Total: 56 CDN URLs ready to use** (48 project images + 8 personal photos)
 
 All images are cached by GitHub's CDN (powered by Fastly) for fast global delivery.
